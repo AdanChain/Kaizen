@@ -2,17 +2,7 @@
 
 Solana OS Rust framework for industrial grade applications.
 
-[<img alt="github" src="https://img.shields.io/badge/github-solana--kaizen/kaizen-8da0cb?style=for-the-badge&labelColor=555555&color=8da0cb&logo=github" height="20">](https://github.com/solana-kaizen/kaizen)
-[<img alt="crates.io" src="https://img.shields.io/crates/v/kaizen.svg?maxAge=2592000&style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/kaizen)
-[<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-kaizen-56c2a5?maxAge=2592000&style=for-the-badge&logo=docs.rs" height="20">](https://docs.rs/kaizen)
-<img alt="license" src="https://img.shields.io/crates/l/kaizen.svg?maxAge=2592000&color=6ac&style=for-the-badge&logoColor=fff" height="20">
-<img src="https://img.shields.io/badge/platform-native-informational?style=for-the-badge&color=50a0f0" height="20">
-<img src="https://img.shields.io/badge/platform-wasm32/browser-informational?style=for-the-badge&color=50a0f0" height="20">
-<img src="https://img.shields.io/badge/platform-wasm32/node.js-informational?style=for-the-badge&color=50a0f0" height="20">
-<img src="https://img.shields.io/badge/platform-solana_os-informational?style=for-the-badge&color=50a0f0" height="20">
-
-<p align="center" style="margin:32px auto 32px auto;text-align:center;font-size:10px;color:#888;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/2560px-Tsunami_by_hokusai_19th_century.jpg" style="display:block;height:320px;width:auto;margin: 0px auto 0px auto;"><br/><sup>THE GREAT WAVE OFF KANAGAWA &bull; KATSUSHIKA HOKUSAI &bull; JAPAN 1831</sup></p>
+ KATSUSHIKA HOKUSAI &bull; JAPAN 1831</sup></p>
 
 ‘Kaizen’ focuses on the refinement of the Solana application development infrastructure by identifying framework optimization opportunities in order to increase reliability and simplify Solana-based full-stack application development. 
 
@@ -23,8 +13,6 @@ Kaizen is a *security-and-reliability-centric* framework for developing of Solan
 This in-turn allows developers to use functions and data structures that are a part of the program directly within the client-side web application.
 
 The framework is backed by native and in-browser async Rust transport layers that can fetch account data and access it client-side via functions interfacing with [AccountInfo](https://docs.rs/solana-program/latest/solana_program/account_info/struct.AccountInfo.html) and *Account Data Containers*.
-
-An example is available here: <https://github.com/solana-kaizen/kaizen-example>
 
 
 ## Features
